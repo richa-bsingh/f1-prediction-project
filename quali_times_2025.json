@@ -1,0 +1,46 @@
+{
+    "Japan": {
+      "Max Verstappen": 88.234,
+      "Lando Norris": 88.345,
+      "Charles Leclerc": 88.567,
+      "Oscar Piastri": 88.678,
+      "George Russell": 88.789,
+      "Lewis Hamilton": 88.901,
+      "Carlos Sainz": 89.012,
+      "Fernando Alonso": 89.345,
+      "Lance Stroll": 89.456,
+      "Pierre Gasly": 89.567,
+      "Alexander Albon": 89.789,
+      "Yuki Tsunoda": 89.890
+    },
+      "Australia": {
+        "Lando Norris": 75.096,
+        "Oscar Piastri": 75.180,
+        "Max Verstappen": 75.481,
+        "George Russell": 75.546,
+        "Yuki Tsunoda": 75.670,
+        "Alexander Albon": 75.737,
+        "Charles Leclerc": 75.755,
+        "Lewis Hamilton": 75.973,
+        "Pierre Gasly": 75.980,
+        "Carlos Sainz": 76.062,
+        "Fernando Alonso": 76.400,
+        "Lance Stroll": 76.500
+      },
+    "China": {
+      "Oscar Piastri": 90.641,
+      "George Russell": 90.723,
+      "Lando Norris": 90.793,
+      "Max Verstappen": 90.817,
+      "Lewis Hamilton": 90.927,
+      "Charles Leclerc": 91.021,
+      "Yuki Tsunoda": 91.638,
+      "Alexander Albon": 91.706,
+      "Esteban Ocon": 91.625,
+      "Nico Hulkenberg": 91.632,
+      "Fernando Alonso": 91.688,
+      "Lance Stroll": 91.773,
+      "Carlos Sainz": 91.840,
+      "Pierre Gasly": 91.992
+    }
+  }
