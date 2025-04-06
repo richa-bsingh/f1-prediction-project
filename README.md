@@ -42,6 +42,6 @@ This project is a machine learning-driven web application designed to predict Fo
 - Use the dashboard to add and analyze different Grand Prix predictions interactively.
 
 ## Author
-
+Blog : https://medium.com/@science0719/fast-f1-prediction-model-8c19333e424b
 Richa Singh © 2025
 
