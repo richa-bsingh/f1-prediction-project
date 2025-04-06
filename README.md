@@ -43,5 +43,6 @@ This project is a machine learning-driven web application designed to predict Fo
 
 ## Author
 Blog : https://medium.com/@science0719/fast-f1-prediction-model-8c19333e424b
+
 Richa Singh © 2025
 
